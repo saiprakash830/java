@@ -1,4 +1,5 @@
-public class AddTwoNumbers {
+import java.util.scanner;
+public class Sum {
 
    public static void main(String[] args) {
         
